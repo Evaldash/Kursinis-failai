@@ -2,7 +2,7 @@
 
 Kursinio darbo (Android aplikacija Raspberry Pi mašinėlės valdymui) veikimui būtini failai.
 
-Čia pridedami mjpg-streamer, ir BTserver.py moduliai.
+Čia pridedami mjpg-streamer, ir BTserver.py moduliai, bei aplikacijos failas.
 
 mjpg-streamer šaltinis: https://github.com/jacksonliam/mjpg-streamer, originalus autorius Tom Stöveken, prie programos kūrimo nuo jos išleidimo datos yra prisidėję daug žmonių.
 
