@@ -4,6 +4,8 @@ Kursinio darbo (Android aplikacija Raspberry Pi mašinėlės valdymui) veikimui 
 
 Čia pridedami mjpg-streamer, ir BTserver.py moduliai, bei aplikacijos failas.
 
+BTserver.py, bei aplikacijos autorius Evaldas Stropus.
+
 mjpg-streamer šaltinis: https://github.com/jacksonliam/mjpg-streamer, originalus autorius Tom Stöveken, prie programos kūrimo nuo jos išleidimo datos yra prisidėję daug žmonių.
 
 mjpg-streamer yra nemokama programa; ją leidžiama laisvai dalintis, modifikuoti. Licensija: "GNU General Public License v2"
